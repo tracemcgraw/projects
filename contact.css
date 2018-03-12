@@ -1,5 +1,5 @@
 .wrapperHeader{
-    background-image: url('../4-assets/piano.jpeg');
+    background-image: url('./4-assets/piano.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     height:150px;
@@ -18,7 +18,7 @@
     
 }
 body{
-    background-image: url("../4-assets/violin.jpeg");
+    background-image: url("./4-assets/violin.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     width: 500px;
@@ -104,7 +104,7 @@ li a:hover:not(.active) {
 
 }
 #infoBox{
-  background-image: url("../4-assets/vtvlogo.jpg");
+  background-image: url("./4-assets/vtvlogo.jpg");
   background-size: 600px 600px;
   background-repeat: no-repeat;
   height: 550px;
@@ -120,7 +120,7 @@ li a:hover:not(.active) {
     position: relative;
     width: 270px;
     height: 300px;
-    background-image: url("../4-assets/flowers.jpg");
+    background-image: url("./4-assets/flowers.jpg");
     background-size: 270px 300px;
     background-position: center;
     left: 110px;

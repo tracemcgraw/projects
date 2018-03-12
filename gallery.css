@@ -1,5 +1,5 @@
 .wrapperHeader{
-    background-image: url('../4-assets/piano.jpeg');
+    background-image: url('./4-assets/piano.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     height:150px;
@@ -18,7 +18,7 @@
     
 }
 body{
-    background-image: url("../4-assets/violin.jpeg");
+    background-image: url("./4-assets/violin.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
 

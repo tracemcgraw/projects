@@ -1,0 +1,24 @@
+@font-face {
+font-family: 'Code';
+font-style: normal;
+font-weight: 400;
+src: url(https://static.canva.com/static/webfonts/CodeLight.woff) format('woff');
+}
+@font-face {
+font-family: 'Code';
+font-style: italic;
+font-weight: 400;
+src: url(https://static.canva.com/static/webfonts/CodeLight.woff) format('woff');
+}
+@font-face {
+font-family: 'Code';
+font-style: normal;
+font-weight: 700;
+src: url(https://static.canva.com/static/webfonts/CodeBold.woff) format('woff');
+}
+@font-face {
+font-family: 'Code';
+font-style: italic;
+font-weight: 700;
+src: url(https://static.canva.com/static/webfonts/CodeBold.woff) format('woff');
+}
